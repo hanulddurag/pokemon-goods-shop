@@ -7,6 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "deploy": "node ./scripts/deploy.cjs",
     "mcp:setup": "node ./scripts/setup-db.cjs",
     "mcp:types": "node ./scripts/generate-types.cjs"
   },
