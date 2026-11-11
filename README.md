@@ -3,6 +3,13 @@
 
 ---
 
+## 🌐 배포 및 저장소 링크
+* 🚀 **GitHub Pages 배포 사이트 (Live URL):** [https://hanulddurag.github.io/pokemon-goods-shop/](https://hanulddurag.github.io/pokemon-goods-shop/)
+* 💻 **GitHub 레포지토리:** [https://github.com/hanulddurag/pokemon-goods-shop](https://github.com/hanulddurag/pokemon-goods-shop)
+* 🖥️ **로컬 개발 서버:** [http://127.0.0.1:5173/](http://127.0.0.1:5173/)
+
+---
+
 ## 🌟 프로젝트 개요 및 Supabase MCP 적용 내역
 
 본 프로젝트는 **Supabase Remote MCP Server** (`https://mcp.supabase.com/mcp`)를 활용하여 구축되었습니다.
